@@ -10,3 +10,4 @@ jobs:
     with:
       keyboard: '["crkbd"]'
       alphas: '["qwerty"]'
+      clipboard: '["mac"]'
